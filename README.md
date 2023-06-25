@@ -1,2 +1,2 @@
 # certificates
-This is the repository which contains all certificates
+This is the repository that contains all Coursera certificates
